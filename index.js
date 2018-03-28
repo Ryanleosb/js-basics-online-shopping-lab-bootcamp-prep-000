@@ -65,3 +65,4 @@ function placeOrder(cardNumber) {
 
  function total() {
    let t = 0
+}
